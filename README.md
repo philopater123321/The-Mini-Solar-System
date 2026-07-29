@@ -7,6 +7,7 @@ This project is made to practice my three.js skills, and it is simply a mini sol
 - Saturn and its rings
 and all of these are rotating around themselves, and they orbit around the sun.
 
+<img width="1917" height="890" alt="image" src="https://github.com/user-attachments/assets/3734fec9-ccea-4e7e-a9eb-3136431e8599" />
 
 
 ## Why did I make this project ? 
