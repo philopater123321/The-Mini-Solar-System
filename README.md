@@ -22,3 +22,4 @@ I made this project to practice my skills in three.js to create 3d websites.
 
 ## Important Note:
 I actually used AI to assist me in writing the JavaScript code because I am still learning the three.js code skills.
+Another note is I forgot to make commits from VS Code :(
